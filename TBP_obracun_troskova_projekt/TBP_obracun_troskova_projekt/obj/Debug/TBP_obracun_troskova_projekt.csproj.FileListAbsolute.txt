@@ -1,0 +1,10 @@
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\bin\Debug\TBP_obracun_troskova_projekt.exe.config
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\bin\Debug\TBP_obracun_troskova_projekt.exe
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\bin\Debug\TBP_obracun_troskova_projekt.pdb
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.csproj.AssemblyReference.cache
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.Form1.resources
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.Properties.Resources.resources
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.csproj.GenerateResource.cache
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.csproj.CoreCompileInputs.cache
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.exe
+D:\Users\Martin\source\repos\TBP_obracun_troskova_projekt\TBP_obracun_troskova_projekt\obj\Debug\TBP_obracun_troskova_projekt.pdb
